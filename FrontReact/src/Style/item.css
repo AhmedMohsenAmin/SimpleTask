@@ -1,0 +1,22 @@
+
+#rectangle {
+    width: 120px;
+    height: 2.5em;
+    background: #3d74eb;
+    border-radius:4px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+h4{
+  color: white;
+}
+hr{
+  margin-top: -2px;
+  color: rgb(91, 155, 252);
+  background-color: rgb(91, 155, 252);
+}
+
+li{
+  text-align: start;
+}
